@@ -41,6 +41,6 @@
   background: url('../../Assets/visualizacao.svg') no-repeat;
 }
 
-.photo:hover visualizacao {
+.photo:hover .visualizacao {
   display: flex;
 }
